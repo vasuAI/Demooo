@@ -106,6 +106,9 @@ const styles = StyleSheet.create({
    textAlign:'center',
    justifyContent:'center'
   },
+  text:{
+    khgcxzzxcvbn
+  }
   
 
 })
